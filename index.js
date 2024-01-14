@@ -59,5 +59,5 @@ app.get('/monthlyCheck', (req, res) => {
 // Start the Express server
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`);
-  console.log("Navigate to http://localhost:3000/monthlyCheck to trigger the function.");
+  console.log("Navigate to http://localhost:3000/monthly Check to trigger the function.");
 });
